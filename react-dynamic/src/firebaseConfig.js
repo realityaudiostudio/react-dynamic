@@ -1,12 +1,12 @@
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDZeUTunDTAbWB_4xPBCsrDJGhVEGXKtR4",
-    authDomain: "dynamic-ajs.firebaseapp.com",
-    projectId: "dynamic-ajs",
-    storageBucket: "dynamic-ajs.appspot.com",
-    messagingSenderId: "686203870080",
-    appId: "1:686203870080:web:9ec6ccd32c78e40866bf65",
-    measurementId: "G-6RW5PHXMB4"
+    apiKey: "YOUR_API_KEY",
+    authDomain: "YOUR_AUTH_DOMAIN",
+    projectId: "YOUR_PROJECT_ID",
+    storageBucket: "YOUR_STORAGE_BUCKET",
+    messagingSenderId: "YOUR_MESSAGE_ID",
+    appId: "YOUR_APP_ID",
+    measurementId: "YOUR_MEASURMENT_ID"
   };
   
   export default firebaseConfig;
